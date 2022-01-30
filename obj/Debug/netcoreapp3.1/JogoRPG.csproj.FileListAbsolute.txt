@@ -1,0 +1,13 @@
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.exe
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.deps.json
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.runtimeconfig.json
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.runtimeconfig.dev.json
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.dll
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.pdb
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.csprojAssemblyReference.cache
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.AssemblyInfo.cs
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.dll
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.pdb
+C:\Users\patri\Documents\Cursos\DIO\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.genruntimeconfig.cache
